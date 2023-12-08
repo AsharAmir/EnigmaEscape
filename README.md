@@ -2,10 +2,7 @@
 
 This C++ maze game showcases various data structures like graphs, queues, stacks, and linked lists. Players navigate the maze, encountering obstacles and collectibles. The game employs BFS for pathfinding, offering an exploration of fundamental data structure concepts.
 
-<h2>Project Screenshots:</h2>
-
-<img src="[https://pasteboard.co/a5riHDTXWkSJ.png](https://gist.github.com/assets/59178154/5f32e932-a404-495d-b6fe-086475631b7b)" alt="project-screenshot" width="400" height="400/">
-## How to Play
+![image](https://gist.github.com/assets/59178154/5f32e932-a404-495d-b6fe-086475631b7b)
 
 1. **Manual Mode (Difficulty Levels)**
    - Use W, A, S, D keys to navigate the maze.
